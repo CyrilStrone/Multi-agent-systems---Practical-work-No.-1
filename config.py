@@ -1,0 +1,6 @@
+DATA_PATH = "data.csv"
+
+TEST_SIZE = 0.8
+RANDOM_STATE = 42
+
+FIGURE_SIZE = (8, 8)
