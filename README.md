@@ -18,7 +18,7 @@ project/
 ├── config.py                  # конфигурационный файл
 ├── requirements.txt           # зависимости проекта
 ├── data.csv                   # входные данные
-├── correlation\_matrix.csv    # матрица корреляции (генерируется)
+├── correlation_matrix.csv    # матрица корреляции (генерируется)
 └── README.md                  # инструкция
 ```
 
